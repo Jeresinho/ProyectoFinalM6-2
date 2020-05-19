@@ -1,0 +1,23 @@
+﻿{
+    "name": "proyectofinalm6",
+    "version": "1.0.0",
+    "description": "evaluacion modulo 6",
+    "main": "index.js",
+    "scripts": {
+	"start": "node ./sv/server.js"
+        "test": "echo \"Error: no test specified\" && exit 1", 
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Jeresinho/ProyectoFinalM6-2"
+    },
+    "author": "jeremistral@gmail.com",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "express": "^4.16.2"
+    },
+    "devDependencies": {
+        "nodemon": "^1.14.11"
+    }
+}
